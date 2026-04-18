@@ -11,3 +11,4 @@ PDF and QMD versions of my homework 4.3, which documents the programs for montec
 5. Commited the changes
 6. Updated the README in main to keep main up to date.
 
+Edited README. Fixes #2
