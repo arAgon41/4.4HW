@@ -18,5 +18,7 @@ Airport data given by wikipedia page from the homework 3.4.
 MYFIRSTQUARTOHW (2).pdf    -  Documents homework 3.4 in the pdf format.
 MYFIRSTQUARTOHW.qmd   -  documents homework 3.4 in the qmd format.
 README.md   - Documents the github project
+calcium.csv - document consisting of the data for the program in quarto assignment.
+PLAN.md - document consisting of all initial plans for all projects, and this repo assignments. 
 
 Contact info: rvs6296@psu.edu
