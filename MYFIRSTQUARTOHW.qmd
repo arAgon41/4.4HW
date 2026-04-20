@@ -6,12 +6,15 @@ format: pdf
 toc: true
 ---
 
+
 # Busiest Airports Analysis
 
 Looking at the table, I can tell that the number of passengers travelling in 2020 is significantly low for all airports. Shanghai international airport has the most passengers in 2020. However, going into 2021, we can see a steep dip in passenger count. Going into 2022, the number for Shanghai airport wasn't in the top 50 list; we can see that the line would have gone even lower on the graph. In 2023, there was a huge rebound, and most airports started seeing a significant rise in passengers. This starts flattening out over the next few years, going into 2025. This pattern makes it look like 2020 was a dip in passenger travel. The rebound seems to have occurred slowly and returned to normal counts at 2024. If we were to relate this to real-life events, we could probably say that Covid 19 brought passenger travel counts in airports low, and due to the guidelines, people strayed away from air travel for a few years. In the plot and the table we can see that there is no data for PVG and PKX airports, this is due to them not being in the top 50 list of airports in the year of 2022.
 
 ```{r}
 #| echo: false
+#| 
+#| # Coding Style: Following the Tidyverse Style Guide
 library(tidyverse)
 library(knitr)
 
