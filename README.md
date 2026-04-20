@@ -19,35 +19,4 @@ MYFIRSTQUARTOHW (2).pdf    -  Documents homework 3.4 in the pdf format.
 MYFIRSTQUARTOHW.qmd   -  documents homework 3.4 in the qmd format.
 README.md   - Documents the github project
 
-# Project plan for airport code
-## Goal
-My goal is to see how passenger traffic has changed for 6 major airports around the world. I will create data visualizations to show how each airport increased/decreased in foot traffic throughout the years, and I will try to see if there are any trends for any of these airports.
-
-
-## The airports that I will be tracking:
-Hartsfield-Jackson Atlanta International Airport (ATL)
-
-Frankfurt Airport (FRA)
-
-Beijing Daxing International Airport (PKX)
-
-Dubai International Airport(DXB)
-
-Dallas-Fort Worth Internation Airport (DFW)
-
-Shanghai Pudong International Airport (PVG)
-
-
-## To do this:
-I will collect data from the webpage
-
-I will tidy the data with the columns airport, year, passengers
-
-I will then create a comparison table having airport rows, year as the column 2020 - 2025 and then each cell will have the number of passengers in them.
-
-Then I will create a plot to show the trend for each airport.
-
-
-
-
 Contact info: rvs6296@psu.edu
